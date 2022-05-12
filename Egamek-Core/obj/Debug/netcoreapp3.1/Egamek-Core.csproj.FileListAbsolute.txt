@@ -1,0 +1,13 @@
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\bin\Debug\netcoreapp3.1\Egamek-Core.deps.json
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\bin\Debug\netcoreapp3.1\Egamek-Core.runtimeconfig.json
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\bin\Debug\netcoreapp3.1\Egamek-Core.runtimeconfig.dev.json
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\bin\Debug\netcoreapp3.1\Egamek-Core.dll
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\bin\Debug\netcoreapp3.1\Egamek-Core.pdb
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.csproj.AssemblyReference.cache
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.AssemblyInfoInputs.cache
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.AssemblyInfo.cs
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.csproj.CoreCompileInputs.cache
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.dll
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.pdb
+C:\Users\asifr\Source\Repos\Egamek_Back\Egamek-Core\obj\Debug\netcoreapp3.1\Egamek-Core.genruntimeconfig.cache
